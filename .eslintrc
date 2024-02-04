@@ -21,5 +21,6 @@
   },
   "rules": {
     "prettier/prettier": ["warn", { "endOfLine": "auto" }]
+    "react/prop-types": "warn",
   }
 }
